@@ -75,7 +75,7 @@
   ],
     "otherContent": [
     {
-        "@id": "https://github.com/Relais4x100a2/IIIF/blob/main/annotations_GC.json",
+        "@id": "https://raw.githubusercontent.com/Relais4x100a2/IIIF/main/annotations_GC.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
