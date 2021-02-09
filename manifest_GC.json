@@ -1,0 +1,90 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "http://localhost:8887/manifest_GC.json",
+  "@type" : "sc:Manifest",
+  "label" : "Battle of Bapaume (1871)",
+"service": {
+        "profile": "http://iiif.io/api/search/0/search",
+        "@id": "http://localhost:8080/search-api/5d6b60404a4c19d76a7a10426886debd/search",
+        "@context": "http://iiif.io/api/search/0/context.json"
+    },
+  "description" :{"@value": "The Battle of Bapaume was a battle during the Franco-Prussian War, brought about by French attempts to relieve the besieged city of Peronne, Somme. The battle was fought on 3 January 1871 near the town of Bapaume.","@language": "en"},
+  "attribution":"Paris, Marotte, Imp. Edit. rue St Jacques, 22.",  
+  "viewingHint" : "non-paged",
+  "license": "Creative Commons 4.0 by-nc-sa",
+  "metadata" : [
+    {
+      "label": "filename",
+      "value": "iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9"
+    },
+      {
+      "label": "media",
+      "value": "printing"
+    },
+    {
+      "label": "type",
+      "value": "lithography"
+    },
+      {
+      "label": "date",
+      "value": "1871-01-03"
+    },
+    {
+      "label": "subject",
+      "value": "Franco-Prussian war"
+    },
+    {
+      "label": "City",
+      "value": "Bapaume"
+    },
+    {
+      "label": "Country",
+      "value": "France"
+    }
+  ],
+  "sequences" : [
+    {
+      "@id" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/seq0.json",
+      "@type" : "sc:Sequence",
+      "label": "iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9 - sequence 1 0",
+      "canvases": [
+        {
+          "@id" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json",
+          "@type" : "sc:Canvas",
+          "label": "iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9 - image 0",
+          "width" : 7696,
+          "height" : 5239,
+          "images": [
+            {
+              "@id" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/anot0.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json",
+              "resource": {
+                "@id" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/full/full/0/native.jpg",
+                "@type" : "dctypes:Image",
+                "format" : "image/jpeg",
+                "width" : 7696,
+                "height" : 5239,
+                "service" : {
+                  "@context" : "http://iiif.io/api/image/2/context.json",
+                  "@id" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9",
+                  "profile" : "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+    "otherContent": [
+    {
+        "@id": "http://localhost:8887/annotations_GC.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+]
+}
+
+
