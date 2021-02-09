@@ -33,7 +33,7 @@
     "motivation" : [ "oa:commenting" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
-    "@id" : "https://raw.githubusercontent.com/Relais4x100a2/IIIF/main/annotations_GC.json",
+    "@id" : "http://sas.gdmrdigital.com/annotation/1612132384833",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2021-01-31T22:33:04",
     "dcterms:modified" : "2021-02-09T21:08:07",
