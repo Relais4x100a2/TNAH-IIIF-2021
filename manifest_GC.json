@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "http://localhost:8887/manifest_GC.json",
+  "@id" : "https://raw.githubusercontent.com/Relais4x100a2/IIIF/main/manifest_GC.json",
   "@type" : "sc:Manifest",
   "label" : "Battle of Bapaume (1871)",
 "service": {
@@ -80,7 +80,7 @@
   ],
     "otherContent": [
     {
-        "@id": "http://localhost:8887/annotations_GC.json",
+        "@id": "https://github.com/Relais4x100a2/IIIF/blob/main/annotations_GC.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
