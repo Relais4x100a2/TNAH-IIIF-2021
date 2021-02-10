@@ -1,11 +1,11 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://raw.githubusercontent.com/Relais4x100a2/IIIF/main/manifest_GC.json",
   "@type" : "sc:Manifest",
+  "@id" : "https://raw.githubusercontent.com/Relais4x100a2/IIIF/main/manifest_GC.json",
   "label" : "Battle of Bapaume (1871)",
   "description" :{"@value": "The Battle of Bapaume was a battle during the Franco-Prussian War, brought about by French attempts to relieve the besieged city of Peronne, Somme. The battle was fought on 3 January 1871 near the town of Bapaume.","@language": "en"},
   "attribution":"Paris, Marotte, Imp. Edit. rue St Jacques, 22.",  
-  "viewingHint" : "non-paged",
+  "viewingHint" : "individuals",
   "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
   "metadata" : [
     {
