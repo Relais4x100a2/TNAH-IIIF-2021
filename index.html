@@ -2,9 +2,19 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Projet IIIF</title>
+  <title>Visionneuse IIIF</title>
+  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/css/mirador.min.css">
 </head>
 <body>
-Projet IIIF
+  <div id="mirador" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></div>
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  <script type="text/javascript">
+    var mirador = Mirador.viewer({
+      id: "mirador",
+      windows: [{
+        loadedManifest: "./manifest_GC.json" // Chemin relatif vers votre fichier local
+      }]
+    });
+  </script>
 </body>
 </html>
