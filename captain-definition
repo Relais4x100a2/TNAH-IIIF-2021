@@ -2,6 +2,7 @@
   "schemaVersion": 2,
   "dockerfileLines": [
     "FROM nginx:alpine",
+    "RUN echo 'types { application/json json; }' > /etc/nginx/conf.d/mime.types",
     "COPY . /usr/share/nginx/html",
     "EXPOSE 80"
   ]
