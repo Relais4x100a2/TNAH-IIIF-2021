@@ -69,12 +69,12 @@
               }
             }
           ], "otherContent": [
-  {
-    "@id": "./annotations_GC.json",
-    "@type": "sc:AnnotationList",
-    "label": "My fantastic annotations"
-  }
-]
+    {
+        "@id": "https://relais4x100a2.github.io/IIIF/annotations_GC.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+      ]
 
 }]
     }
