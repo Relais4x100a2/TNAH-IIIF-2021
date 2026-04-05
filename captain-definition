@@ -4,7 +4,9 @@
     "FROM nginx:alpine",
     "COPY . /usr/share/nginx/html",
     "WORKDIR /usr/share/nginx/html",
-    "RUN sed -i 's|https://relais4x100a2.github.io/IIIF|https://tnah-iiif.relais4x100a2.fr|g' *.json",
+    "RUN sed -i 's|http://free.iiifhosting.com|https://free.iiifhosting.com|g' *.json",
+    "RUN sed -i 's|http://sas.gdmrdigital.com|https://sas.gdmrdigital.com|g' *.json",
+    "RUN sed -i 's|http://iiif.io|https://iiif.io|g' *.json",
     "EXPOSE 80"
   ]
 }
