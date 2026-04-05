@@ -1,4 +1,5 @@
 {
   "schemaVersion": 2,
-  "templateId": "static"
+  "templateId": "static",
+  "templateVersion": "1.24"
 }
