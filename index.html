@@ -26,20 +26,21 @@
       right: 0;
     }
 
-    /* --- RAFFINEMENT DES ANNOTATIONS --- */
+    /* --- RAFFINEMENT DES ANNOTATIONS - LIGNES ULTRA-FINES --- */
     
-    /* On transforme le bleu par défaut en un "Or Musée" fin */
+    /* On force une épaisseur ultra-fine (0.5px) et une couleur Or Musée subtile */
     .mirador-osd-annotation-layer svg path {
-      stroke: rgba(212, 175, 55, 0.8) !important; /* Couleur Or (Gold) */
-      stroke-width: 2px !important;
-      fill: rgba(212, 175, 55, 0.05) !important; /* Remplissage quasi invisible */
-      transition: all 0.3s ease;
+      stroke: rgba(212, 175, 55, 0.6) !important; /* Couleur Or (Gold) subtile */
+      stroke-width: 0.5px !important; /* Ligne ultra-fine */
+      fill: rgba(212, 175, 55, 0.02) !important; /* Remplissage quasi invisible */
+      transition: all 0.2s ease;
     }
 
     /* Effet au survol de la souris sur une zone */
     .mirador-osd-annotation-layer svg path:hover {
-      stroke: rgba(255, 255, 255, 1) !important; /* Devient blanc brillant */
-      fill: rgba(212, 175, 55, 0.2) !important;
+      stroke: rgba(255, 255, 255, 0.9) !important; /* Devient blanc brillant fin */
+      stroke-width: 1px !important; /* S'épaissit juste un peu */
+      fill: rgba(212, 175, 55, 0.1) !important;
       cursor: pointer;
     }
 
@@ -49,6 +50,7 @@
     .mirador-sidebar-content {
       font-family: 'Georgia', serif; /* Police plus classique/académique */
       background-color: #242424 !important;
+      font-size: 0.95em; /* Texte un peu plus fin */
     }
 
     /* Masquer certains éléments inutiles pour un rendu épuré */
