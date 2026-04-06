@@ -14,7 +14,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -25,7 +25,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1447.3511,4285.82716h2471.16127v0h2471.16127v168.727v168.727h-2471.16127h-2471.16127v-168.727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ebb2639b-e2b0-4048-bae0-92a964e2a9c7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.09098\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1447.3511,4285.82716h2471.16127v0h2471.16127v168.727v168.727h-2471.16127h-2471.16127v-168.727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ebb2639b-e2b0-4048-bae0-92a964e2a9c7\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -50,7 +50,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -61,7 +61,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2491.07494,2638.25873c13.35612,-11.94353 32.19709,-20.83747 51.12936,-20.82684v0v0c18.93227,0.01063 35.42546,8.33076 51.12936,20.82684c15.7039,12.49608 21.80781,31.53769 21.17847,50.28044c-0.62934,18.74275 -7.99191,37.18665 -21.17847,50.28044c-13.18656,13.09379 -32.19709,20.83747 -51.12936,20.82684c-18.93227,-0.01063 -37.78629,-7.77556 -51.12936,-20.82684c-13.34307,-13.05128 -21.17521,-31.38892 -21.17847,-50.28044c-0.00326,-18.89152 7.82235,-38.33691 21.17847,-50.28044z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_0b90a418-4473-40bf-935d-85725c1eaf0b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"37.7864\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2491.07494,2638.25873c13.35612,-11.94353 32.19709,-20.83747 51.12936,-20.82684v0v0c18.93227,0.01063 35.42546,8.33076 51.12936,20.82684c15.7039,12.49608 21.80781,31.53769 21.17847,50.28044c-0.62934,18.74275 -7.99191,37.18665 -21.17847,50.28044c-13.18656,13.09379 -32.19709,20.83747 -51.12936,20.82684c-18.93227,-0.01063 -37.78629,-7.77556 -51.12936,-20.82684c-13.34307,-13.05128 -21.17521,-31.38892 -21.17847,-50.28044c-0.00326,-18.89152 7.82235,-38.33691 21.17847,-50.28044z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_0b90a418-4473-40bf-935d-85725c1eaf0b\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -79,14 +79,14 @@
       "chars" : "French general"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #202122; font-family: sans-serif;\">General Bessol (25 february 1828 - 2 october 1908)\n<span style=\"color: #202122; font-family: sans-serif;\"><img src=\"http://military-photos.com/BESSOL.jpg\" alt=\"General Bessol\" width=\"125\" height=\"190\" />",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #202122; font-family: sans-serif;\">General Bessol (25 february 1828 - 2 october 1908)\n<span style=\"color: #202122; font-family: sans-serif;\"><img src=\"https://www.military-photos.com/BESSOL.jpg\" alt=\"General Bessol\" width=\"125\" height=\"190\" />",
       "format" : "text/html",
-      "chars" : "<p><span style=\"color: #202122; font-family: sans-serif;\">General Bessol (25 february 1828 - 2 october 1908)</span></p>\n<p><span style=\"color: #202122; font-family: sans-serif;\"><img src=\"http://military-photos.com/BESSOL.jpg\" alt=\"General Bessol\" width=\"125\" height=\"190\" /></span></p>"
+      "chars" : "<p><span style=\"color: #202122; font-family: sans-serif;\">General Bessol (25 february 1828 - 2 october 1908)</span></p>\n<p><span style=\"color: #202122; font-family: sans-serif;\"><img src=\"https://www.military-photos.com/BESSOL.jpg\" alt=\"General Bessol\" width=\"125\" height=\"190\" /></span></p>"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -97,7 +97,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4152.7545,1773.44062c35.57853,-38.5253 85.76782,-67.2138 136.20032,-67.17952v0v0c50.4325,0.03428 94.36767,26.8719 136.20032,67.17952c41.83265,40.30762 58.09247,101.72866 56.41602,162.1857c-1.67645,60.45704 -21.28917,119.95009 -56.41602,162.1857c-35.12685,42.23561 -85.76782,67.2138 -136.20032,67.17952c-50.4325,-0.03428 -100.65653,-25.08101 -136.20032,-67.17952c-35.54379,-42.09851 -56.40733,-101.2488 -56.41602,-162.1857c-0.00869,-60.9369 20.83749,-123.6604 56.41602,-162.1857z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_9ea7547e-1630-4944-a5ac-d904fe2df333\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.58847\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4152.7545,1773.44062c35.57853,-38.5253 85.76782,-67.2138 136.20032,-67.17952v0v0c50.4325,0.03428 94.36767,26.8719 136.20032,67.17952c41.83265,40.30762 58.09247,101.72866 56.41602,162.1857c-1.67645,60.45704 -21.28917,119.95009 -56.41602,162.1857c-35.12685,42.23561 -85.76782,67.2138 -136.20032,67.17952c-50.4325,-0.03428 -100.65653,-25.08101 -136.20032,-67.17952c-35.54379,-42.09851 -56.40733,-101.2488 -56.41602,-162.1857c-0.00869,-60.9369 20.83749,-123.6604 56.41602,-162.1857z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_9ea7547e-1630-4944-a5ac-d904fe2df333\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -122,7 +122,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -133,7 +133,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5751.57782,1968.67809c-58.94815,-55.95616 -142.10406,-97.62481 -225.66294,-97.57503v0v0c-83.55888,0.04978 -156.35269,39.03014 -225.66294,97.57503c-69.31025,58.54489 -96.25027,147.756 -93.47265,235.56695c2.77762,87.81095 35.27288,174.22175 93.47265,235.56695c58.19977,61.3452 142.10406,97.62481 225.66294,97.57503c83.55888,-0.04978 166.77236,-36.42896 225.66294,-97.57503c58.89058,-61.14607 93.45826,-147.05903 93.47265,-235.56695c0.01439,-88.50792 -34.5245,-179.61079 -93.47265,-235.56695z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_ee5305b5-b77f-4af3-a026-67d8cd83f566\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.58847\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5751.57782,1968.67809c-58.94815,-55.95616 -142.10406,-97.62481 -225.66294,-97.57503v0v0c-83.55888,0.04978 -156.35269,39.03014 -225.66294,97.57503c-69.31025,58.54489 -96.25027,147.756 -93.47265,235.56695c2.77762,87.81095 35.27288,174.22175 93.47265,235.56695c58.19977,61.3452 142.10406,97.62481 225.66294,97.57503c83.55888,-0.04978 166.77236,-36.42896 225.66294,-97.57503c58.89058,-61.14607 93.45826,-147.05903 93.47265,-235.56695c0.01439,-88.50792 -34.5245,-179.61079 -93.47265,-235.56695z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_ee5305b5-b77f-4af3-a026-67d8cd83f566\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -158,7 +158,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -169,7 +169,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5568.92943,3163.19924c-32.80551,28.10854 -79.08301,49.04003 -125.58476,49.01502v0v0c-46.50175,-0.02501 -87.01258,-19.60607 -125.58476,-49.01502c-38.57218,-29.40895 -53.5647,-74.22251 -52.01891,-118.33272c1.54579,-44.11021 19.62988,-87.51709 52.01891,-118.33272c32.38903,-30.81563 79.08301,-49.04003 125.58476,-49.01502c46.50175,0.02501 92.81128,18.29942 125.58476,49.01502c32.77348,30.7156 52.0109,73.8724 52.01891,118.33272c0.00801,44.46032 -19.2134,90.22418 -52.01891,118.33272z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_ac1117cd-7ee2-4f83-8b55-98b630bb794e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.58847\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5568.92943,3163.19924c-32.80551,28.10854 -79.08301,49.04003 -125.58476,49.01502v0v0c-46.50175,-0.02501 -87.01258,-19.60607 -125.58476,-49.01502c-38.57218,-29.40895 -53.5647,-74.22251 -52.01891,-118.33272c1.54579,-44.11021 19.62988,-87.51709 52.01891,-118.33272c32.38903,-30.81563 79.08301,-49.04003 125.58476,-49.01502c46.50175,0.02501 92.81128,18.29942 125.58476,49.01502c32.77348,30.7156 52.0109,73.8724 52.01891,118.33272c0.00801,44.46032 -19.2134,90.22418 -52.01891,118.33272z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_ac1117cd-7ee2-4f83-8b55-98b630bb794e\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -177,7 +177,7 @@
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
-    "@id" : "http://localhost:8080/annotation/1612901706217",
+    "@id" : "./annotation/1612901706217",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2021-02-09T21:15:06",
     "dcterms:modified" : "2021-02-09T21:15:56",
@@ -194,7 +194,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -205,7 +205,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2906.05719,1874.22236c26.38312,-25.27532 63.60078,-44.097 100.99881,-44.07451v0v0c37.39802,0.02249 69.97797,17.62986 100.99881,44.07451c31.02084,26.44465 43.07824,66.74119 41.83508,106.40528c-1.24317,39.66409 -15.7869,78.69573 -41.83508,106.40528c-26.04817,27.70955 -63.60078,44.097 -100.99881,44.07451c-37.39802,-0.02249 -74.64145,-16.45491 -100.99881,-44.07451c-26.35735,-27.6196 -41.82863,-66.42637 -41.83508,-106.40528c-0.00644,-39.97891 15.45196,-81.12995 41.83508,-106.40528z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_6f2368e7-d5a1-4a65-b666-04da13d4c267\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.78633\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2906.05719,1874.22236c26.38312,-25.27532 63.60078,-44.097 100.99881,-44.07451v0v0c37.39802,0.02249 69.97797,17.62986 100.99881,44.07451c31.02084,26.44465 43.07824,66.74119 41.83508,106.40528c-1.24317,39.66409 -15.7869,78.69573 -41.83508,106.40528c-26.04817,27.70955 -63.60078,44.097 -100.99881,44.07451c-37.39802,-0.02249 -74.64145,-16.45491 -100.99881,-44.07451c-26.35735,-27.6196 -41.82863,-66.42637 -41.83508,-106.40528c-0.00644,-39.97891 15.45196,-81.12995 41.83508,-106.40528z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_6f2368e7-d5a1-4a65-b666-04da13d4c267\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -230,7 +230,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -241,7 +241,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5913.71975,2951.25978c-21.90711,20.72215 -52.81064,36.15323 -83.86392,36.13479v0v0c-31.05328,-0.01844 -58.10591,-14.45396 -83.86392,-36.13479c-25.75801,-21.68083 -35.76983,-54.71823 -34.73757,-87.23711c1.03226,-32.51888 13.10858,-64.51925 34.73757,-87.23711c21.62899,-22.71786 52.81064,-36.15323 83.86392,-36.13479c31.05328,0.01844 61.97821,13.49067 83.86392,36.13479c21.88571,22.64412 34.73222,54.46012 34.73757,87.23711c0.00535,32.77699 -12.83046,66.51496 -34.73757,87.23711z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_c5327295-3eb1-4843-aa0c-4f16e1a6bb8a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.01596\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5913.71975,2951.25978c-21.90711,20.72215 -52.81064,36.15323 -83.86392,36.13479v0v0c-31.05328,-0.01844 -58.10591,-14.45396 -83.86392,-36.13479c-25.75801,-21.68083 -35.76983,-54.71823 -34.73757,-87.23711c1.03226,-32.51888 13.10858,-64.51925 34.73757,-87.23711c21.62899,-22.71786 52.81064,-36.15323 83.86392,-36.13479c31.05328,0.01844 61.97821,13.49067 83.86392,36.13479c21.88571,22.64412 34.73222,54.46012 34.73757,87.23711c0.00535,32.77699 -12.83046,66.51496 -34.73757,87.23711z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_c5327295-3eb1-4843-aa0c-4f16e1a6bb8a\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -270,7 +270,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -281,7 +281,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2367.23075,2447.30731h128.04005v0h128.04005v77.54977v77.54977h-128.04005h-128.04005v-77.54977z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0330f8da-a2bb-4f89-9456-a221683e1f18\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.01596\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2367.23075,2447.30731h128.04005v0h128.04005v77.54977v77.54977h-128.04005h-128.04005v-77.54977z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0330f8da-a2bb-4f89-9456-a221683e1f18\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -306,7 +306,7 @@
     "on" : [ {
       "@type" : "oa:SpecificResource",
       "within" : {
-        "@id" : "https://relais4x100a2.github.io/IIIF/manifest_GC.json",
+        "@id" : "./manifest_GC.json",
         "@type" : "sc:Manifest"
       },
       "selector" : {
@@ -317,7 +317,7 @@
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4055.6788,2037.69685c-75.22149,-45.81493 -181.33359,-79.93175 -287.95991,-79.89099v0v0c-106.62632,0.04076 -199.51573,31.9565 -287.95991,79.89099c-88.44418,47.93449 -122.82132,120.97741 -119.2769,192.87392c3.54442,71.89651 45.01038,142.64663 119.2769,192.87392c74.26652,50.22729 181.33359,79.93175 287.95991,79.89099c106.62632,-0.04076 212.81188,-29.82674 287.95991,-79.89099c75.14803,-50.06425 119.25854,-120.40675 119.2769,-192.87392c0.01836,-72.46717 -44.05541,-147.05899 -119.2769,-192.87392z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_943fed88-451d-404f-94f6-9c9c649f6ca7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.13927\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4055.6788,2037.69685c-75.22149,-45.81493 -181.33359,-79.93175 -287.95991,-79.89099v0v0c-106.62632,0.04076 -199.51573,31.9565 -287.95991,79.89099c-88.44418,47.93449 -122.82132,120.97741 -119.2769,192.87392c3.54442,71.89651 45.01038,142.64663 119.2769,192.87392c74.26652,50.22729 181.33359,79.93175 287.95991,79.89099c106.62632,-0.04076 212.81188,-29.82674 287.95991,-79.89099c75.14803,-50.06425 119.25854,-120.40675 119.2769,-192.87392c0.01836,-72.46717 -44.05541,-147.05899 -119.2769,-192.87392z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_943fed88-451d-404f-94f6-9c9c649f6ca7\" fill-opacity=\"0.00001\"  fill-rule=\"nonzero\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "http://free.iiifhosting.com/iiif/363d3791ed85389b66f0c3183ab6f42ad7ee540b47ae30ef0d2eb033f19c3fa9/can0.json"
@@ -325,6 +325,6 @@
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   } ],
-  "@id" : "http://localhost:8080/annotation/list/c7b5f91293b3ba6d2079eb1fb4d7535b.json",
+  "@id" : "./annotation/list/c7b5f91293b3ba6d2079eb1fb4d7535b.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
