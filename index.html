@@ -2,17 +2,93 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Visionneuse IIIF</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exposition IIIF - Battle of Bapaume</title>
+  
   <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/css/mirador.min.css">
+  
+  <style>
+    /* Configuration plein écran */
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      background-color: #1a1a1a; /* Fond très sombre */
+    }
+
+    #mirador {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+
+    /* --- RAFFINEMENT DES ANNOTATIONS --- */
+    
+    /* On transforme le bleu par défaut en un "Or Musée" fin */
+    .mirador-osd-annotation-layer svg path {
+      stroke: rgba(212, 175, 55, 0.8) !important; /* Couleur Or (Gold) */
+      stroke-width: 2px !important;
+      fill: rgba(212, 175, 55, 0.05) !important; /* Remplissage quasi invisible */
+      transition: all 0.3s ease;
+    }
+
+    /* Effet au survol de la souris sur une zone */
+    .mirador-osd-annotation-layer svg path:hover {
+      stroke: rgba(255, 255, 255, 1) !important; /* Devient blanc brillant */
+      fill: rgba(212, 175, 55, 0.2) !important;
+      cursor: pointer;
+    }
+
+    /* --- PERSONNALISATION DE LA BARRE LATÉRALE --- */
+    
+    /* Style des textes dans la barre d'annotations */
+    .mirador-sidebar-content {
+      font-family: 'Georgia', serif; /* Police plus classique/académique */
+      background-color: #242424 !important;
+    }
+
+    /* Masquer certains éléments inutiles pour un rendu épuré */
+    .mirador-window-top-bar-buttons {
+      opacity: 0.7;
+    }
+  </style>
 </head>
 <body>
-  <div id="mirador" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></div>
+
+  <div id="mirador"></div>
+
   <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  
   <script type="text/javascript">
-    var mirador = Mirador.viewer({
+    var miradorInstance = Mirador.viewer({
       id: "mirador",
+      language: 'fr', // Interface en français
+      selectedTheme: 'dark', // Activation du thème sombre natif
+      
+      window: {
+        allowClose: false,
+        allowMaximize: false,
+        allowFullscreen: true,
+        sideBarOpen: true, // Ouvre la barre latérale par défaut
+        defaultSideBarPanel: 'annotations', // Affiche directement les annotations
+        views: [
+          { key: 'single' } // On reste focalisé sur l'image seule
+        ]
+      },
+
+      workspace: {
+        showZoomControls: true, // Utile pour les détails de la lithographie
+        type: 'mosaic',
+      },
+
+      // Configuration du chargement du document
       windows: [{
-        loadedManifest: "./manifest_GC.json" // Chemin relatif vers votre fichier local
+        loadedManifest: "./manifest_GC.json",
+        canvasIndex: 0
       }]
     });
   </script>
