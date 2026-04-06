@@ -43,9 +43,9 @@
       "chars" : "moustache"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "The style of the \"imperial\" moustache was very fashionable at the time, one still wonders why?\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Napoleon_III._of_France.jpg/162px-Napoleon_III._of_France.jpg\" alt=\"Napoleon III\" width=\"162\" height=\"240\" />\nNapoleon III with his beautiful moustache.",
+      "http://dev.llgc.org.uk/sas/full_text" : "The style of the \"imperial\" moustache was very fashionable at the time, one still wonders why?\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/8/8d/Napoleon_III_by_Mayer_%26_Pierson_c1860.png\" alt=\"Napoleon III\" width=\"162\" height=\"240\" />\nNapoleon III with his beautiful moustache.",
       "format" : "text/html",
-      "chars" : "<p>The style of the \"imperial\" moustache was very fashionable at the time, one still wonders why?</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Napoleon_III._of_France.jpg/162px-Napoleon_III._of_France.jpg\" alt=\"Napoleon III\" width=\"162\" height=\"240\" /></p>\n<p><em>Napoleon III with his beautiful moustache.</em></p>"
+      "chars" : "<p>The style of the \"imperial\" moustache was very fashionable at the time, one still wonders why?</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/8/8d/Napoleon_III_by_Mayer_%26_Pierson_c1860.png\" alt=\"Napoleon III\" width=\"162\" height=\"240\" /></p>\n<p><em>Napoleon III with his beautiful moustache.</em></p>"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
