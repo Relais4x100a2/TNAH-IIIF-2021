@@ -53,9 +53,9 @@
         },
         {
           "@type": "dctypes:Text",
-          "http://dev.llgc.org.uk/sas/full_text": "The style of the \"imperial\" moustache was very fashionable at the time; one still wonders why?\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/8/8d/Napoleon_III_by_Mayer_%26_Pierson_c1860.png\" alt=\"Napoleon III\" width=\"200\" height=\"300\" />\nNapoleon III with his beautiful moustache.",
+          "http://dev.llgc.org.uk/sas/full_text": "The style of the \"imperial\" moustache was very fashionable at the time; one still wonders why?\n<img src=\"./img/250px-Napoleon_III_by_Mayer_%26_Pierson_c186.png\" alt=\"Napoleon III\" width=\"200\" height=\"300\" />\nNapoleon III with his beautiful moustache.",
           "format": "text/html",
-          "chars": "<p>The style of the \"imperial\" moustache was very fashionable at the time; one still wonders why?</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/8/8d/Napoleon_III_by_Mayer_%26_Pierson_c1860.png\" alt=\"Napoleon III\" width=\"200\" height=\"300\" /></p>\n<p><em>Napoleon III with his beautiful moustache.</em></p>"
+          "chars": "<p>The style of the \"imperial\" moustache was very fashionable at the time; one still wonders why?</p>\n<p><img src=\"./img/250px-Napoleon_III_by_Mayer_%26_Pierson_c186.png\" alt=\"Napoleon III\" width=\"200\" height=\"300\" /></p>\n<p><em>Napoleon III with his beautiful moustache.</em></p>"
         }
       ],
       "on": [
@@ -98,9 +98,9 @@
         },
         {
           "@type": "dctypes:Text",
-          "http://dev.llgc.org.uk/sas/full_text": "General Bessol (25 February 1828 - 2 October 1908)\n<img src=\"https://www.military-photos.com/BESSOL.jpg\" alt=\"General Bessol\" width=\"184\" height=\"280\" />",
+          "http://dev.llgc.org.uk/sas/full_text": "General Bessol (25 February 1828 - 2 October 1908)\n<img src=\"./img/250px-BESSOL.jpg\" alt=\"General Bessol\" width=\"184\" height=\"280\" />",
           "format": "text/html",
-          "chars": "<p><span style=\"color: #202122; font-family: sans-serif;\">General Bessol (25 February 1828 - 2 October 1908)</span></p>\n<p><span style=\"color: #202122; font-family: sans-serif;\"><img src=\"https://www.military-photos.com/BESSOL.jpg\" alt=\"General Bessol\" width=\"184\" height=\"280\" /></span></p>"
+          "chars": "<p><span style=\"color: #202122; font-family: sans-serif;\">General Bessol (25 February 1828 - 2 October 1908)</span></p>\n<p><span style=\"color: #202122; font-family: sans-serif;\"><img src=\"./img/250px-BESSOL.jpg\" alt=\"General Bessol\" width=\"184\" height=\"280\" /></span></p>"
         }
       ],
       "on": [
@@ -233,9 +233,9 @@
         },
         {
           "@type": "dctypes:Text",
-          "http://dev.llgc.org.uk/sas/full_text": "General Louis Faidherbe (3 June 1818 - 29 September 1889).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Le_g%C3%A9n%C3%A9ral_Faidherbe.jpg/197px-Le_g%C3%A9n%C3%A9ral_Faidherbe.jpg\" alt=\"General Faidherbe\" width=\"197\" height=\"240\" />\nIn December 1870, he was appointed as commander-in-chief of the Army of the North by the Government of National Defence.\nFaidherbe quickly proved himself to be the most able of the generals fighting Prussian forces in the French provinces and won several small victories against the Prussian First Army at the towns of Ham, Hallue, Pont-Noyelles, and Bapaume. Despite his military skills, Faidherbe was never able to form an army strong enough to seriously worry the Prussians, as his army, composed of raw recruits, suffered immense supply difficulties and low morale in the freezing winter of 1870-1871. The Army of the North performed remarkably well by striking isolated enemy forces and then retreating behind the belt of fortresses around Pas-de-Calais. Ultimately, however, Faidherbe was ordered by Minister of War Léon Gambetta to attack the Prussians—Faidherbe rushed into an open battle at St Quentin and his army was destroyed.\nSource: Wikipedia",
+          "http://dev.llgc.org.uk/sas/full_text": "General Louis Faidherbe (3 June 1818 - 29 September 1889).\n<img src=\"./img/250px-Faidherbearmee.jpeg\" alt=\"General Faidherbe\" width=\"197\" height=\"240\" />\nIn December 1870, he was appointed as commander-in-chief of the Army of the North by the Government of National Defence.\nFaidherbe quickly proved himself to be the most able of the generals fighting Prussian forces in the French provinces and won several small victories against the Prussian First Army at the towns of Ham, Hallue, Pont-Noyelles, and Bapaume. Despite his military skills, Faidherbe was never able to form an army strong enough to seriously worry the Prussians, as his army, composed of raw recruits, suffered immense supply difficulties and low morale in the freezing winter of 1870-1871. The Army of the North performed remarkably well by striking isolated enemy forces and then retreating behind the belt of fortresses around Pas-de-Calais. Ultimately, however, Faidherbe was ordered by Minister of War Léon Gambetta to attack the Prussians—Faidherbe rushed into an open battle at St Quentin and his army was destroyed.\nSource: Wikipedia",
           "format": "text/html",
-          "chars": "<p>General Louis Faidherbe (3 June 1818 - 29 September 1889).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Le_g%C3%A9n%C3%A9ral_Faidherbe.jpg/197px-Le_g%C3%A9n%C3%A9ral_Faidherbe.jpg\" alt=\"General Faidherbe\" width=\"197\" height=\"240\" /></p>\n<p>In December 1870, he was appointed as commander-in-chief of the Army of the North by the Government of National Defence.</p>\n<p>Faidherbe quickly proved himself to be the most able of the generals fighting Prussian forces in the French provinces and won several small victories against the Prussian First Army at the towns of Ham, Hallue, Pont-Noyelles, and Bapaume. Despite his military skills, Faidherbe was never able to form an army strong enough to seriously worry the Prussians, as his army, composed of raw recruits, suffered immense supply difficulties and low morale in the freezing winter of 1870-1871. The Army of the North performed remarkably well by striking isolated enemy forces and then retreating behind the belt of fortresses around Pas-de-Calais. Ultimately, however, Faidherbe was ordered by Minister of War Léon Gambetta to attack the Prussians—Faidherbe rushed into an open battle at St Quentin and his army was destroyed.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Louis_Faidherbe\" target=\"_blank\" rel=\"noopener\">Source: Wikipedia</a></p>"
+          "chars": "<p>General Louis Faidherbe (3 June 1818 - 29 September 1889).</p>\n<p><img src=\"./img/250px-Faidherbearmee.jpeg\" alt=\"General Faidherbe\" width=\"197\" height=\"240\" /></p>\n<p>In December 1870, he was appointed as commander-in-chief of the Army of the North by the Government of National Defence.</p>\n<p>Faidherbe quickly proved himself to be the most able of the generals fighting Prussian forces in the French provinces and won several small victories against the Prussian First Army at the towns of Ham, Hallue, Pont-Noyelles, and Bapaume. Despite his military skills, Faidherbe was never able to form an army strong enough to seriously worry the Prussians, as his army, composed of raw recruits, suffered immense supply difficulties and low morale in the freezing winter of 1870-1871. The Army of the North performed remarkably well by striking isolated enemy forces and then retreating behind the belt of fortresses around Pas-de-Calais. Ultimately, however, Faidherbe was ordered by Minister of War Léon Gambetta to attack the Prussians—Faidherbe rushed into an open battle at St Quentin and his army was destroyed.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Louis_Faidherbe\" target=\"_blank\" rel=\"noopener\">Source: Wikipedia</a></p>"
         }
       ],
       "on": [
@@ -278,9 +278,9 @@
         },
         {
           "@type": "dctypes:Text",
-          "http://dev.llgc.org.uk/sas/full_text": "The Pickelhaube (plural Pickelhauben; from the German Pickel, \"point\" or \"pickaxe\", and Haube, \"bonnet\", a general word for \"headgear\"), also Pickelhelm, is a spiked helmet worn in the 19th and 20th centuries by the Prussian and German military, firefighters, and police.",
+          "http://dev.llgc.org.uk/sas/full_text": "The Pickelhaube (plural Pickelhauben; from the German Pickel, \"point\" or \"pickaxe\", and Haube, \"bonnet\", a general word for \"headgear\"), also Pickelhelm, is a spiked helmet worn in the 19th and 20th centuries by the Prussian and German military, firefighters, and police.\n<img src=\"./img/250px-pickelhaube.png\" alt=\"Pickelhaube prussien\" width=\"250\" />",
           "format": "text/html",
-          "chars": "<p>The Pickelhaube (plural Pickelhauben; from the German Pickel, \"point\" or \"pickaxe\", and Haube, \"bonnet\", a general word for \"headgear\"), also Pickelhelm, is a spiked helmet worn in the 19th and 20th centuries by the Prussian and German military, firefighters, and police.</p>"
+          "chars": "<p>The Pickelhaube (plural Pickelhauben; from the German Pickel, \"point\" or \"pickaxe\", and Haube, \"bonnet\", a general word for \"headgear\"), also Pickelhelm, is a spiked helmet worn in the 19th and 20th centuries by the Prussian and German military, firefighters, and police.</p>\n<p><img src=\"./img/250px-pickelhaube.png\" alt=\"Pickelhaube prussien\" width=\"250\" /></p>"
         }
       ],
       "on": [
@@ -323,9 +323,9 @@
         },
         {
           "@type": "dctypes:Text",
-          "http://dev.llgc.org.uk/sas/full_text": "Without a doubt, the French kepi was much more reliable than the Prussian Pickelhaube!",
+          "http://dev.llgc.org.uk/sas/full_text": "Without a doubt, the French kepi was much more reliable than the Prussian Pickelhaube!\n<img src=\"./img/250px_kepi.jpg\" alt=\"Képi français\" width=\"250\" />",
           "format": "text/html",
-          "chars": "<p>Without a doubt, the French kepi was much more reliable than the Prussian Pickelhaube!</p>"
+          "chars": "<p>Without a doubt, the French kepi was much more reliable than the Prussian Pickelhaube!</p>\n<p><img src=\"./img/250px_kepi.jpg\" alt=\"Képi français\" width=\"250\" /></p>"
         },
         {
           "@type": "oa:Tag",
@@ -373,9 +373,9 @@
         },
         {
           "@type": "dctypes:Text",
-          "http://dev.llgc.org.uk/sas/full_text": "French horses had an unfailing composure: they seemed unconcerned by the impacts of shells.\nWe are very far from the representation of the horses of Napoleon I's army.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GericaultHorseman.jpg/184px-GericaultHorseman.jpg\" alt=\"Géricault Horseman\" width=\"230\" height=\"300\" />",
+          "http://dev.llgc.org.uk/sas/full_text": "French horses had an unfailing composure: they seemed unconcerned by the impacts of shells.\nWe are very far from the representation of the horses of Napoleon I's army.\n<img src=\"./img/250px-GericaultHorseman.jpg\" alt=\"Géricault Horseman\" width=\"230\" height=\"300\" />",
           "format": "text/html",
-          "chars": "<p>French horses had an unfailing composure: they seemed unconcerned by the impacts of shells.</p>\n<p>We are very far from the representation of the horses of Napoleon I's army.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GericaultHorseman.jpg/184px-GericaultHorseman.jpg\" alt=\"Géricault Horseman\" width=\"230\" height=\"300\" /></p>"
+          "chars": "<p>French horses had an unfailing composure: they seemed unconcerned by the impacts of shells.</p>\n<p>We are very far from the representation of the horses of Napoleon I's army.</p>\n<p><img src=\"./img/250px-GericaultHorseman.jpg\" alt=\"Géricault Horseman\" width=\"230\" height=\"300\" /></p>"
         }
       ],
       "on": [
