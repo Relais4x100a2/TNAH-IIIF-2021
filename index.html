@@ -4,9 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Exposition IIIF - Battle of Bapaume</title>
-  
-  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/css/mirador.min.css">
-  
+  <!-- Mirador 3.x : les styles sont dans mirador.min.js (pas de CSS séparé publié sur npm). -->
   <style>
     /* Configuration plein écran */
     body, html {
@@ -63,7 +61,10 @@
 
   <div id="mirador"></div>
 
-  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  <script
+    src="./vendor/mirador-3.4.3/mirador.min.js"
+    integrity="sha384-IEKHYYr262JMZM3YemCpstzCBIhY9j7I4IRTnJMNHB2efvMhDdUqtgxAnbS5+tng"
+    crossorigin="anonymous"></script>
   
   <script type="text/javascript">
     var miradorInstance = Mirador.viewer({
