@@ -16,7 +16,8 @@ A minimal **IIIF Presentation API 2.x** setup that displays a lithograph of the 
 | `manifest_GC.json` | IIIF manifest pointing to the canvas and painting annotation, plus a link to the commentary annotation list. |
 | `annotations_GC.json` | Annotation list (Open Annotation / Shared Canvas style) used by Mirador for sidebar and on-canvas highlights. |
 | `img/` | Local images referenced from annotation HTML (e.g. portraits, uniform details). |
-| `captain-definition` | Optional configuration if you deploy with [CapRover](https://caprover.com/). |
+| `Dockerfile` | Builds the production image: static files served by unprivileged nginx on port 8080. |
+| `.dockerignore` | Keeps the repository's non-site files out of the image. |
 
 ## Requirements
 
@@ -32,7 +33,15 @@ Then open `http://localhost:8080/`.
 
 ## Deployment
 
-The project is static: upload the files to **GitHub Pages**, **Netlify**, or any web host. Ensure `manifest_GC.json` uses URLs that match your deployment (e.g. relative `./annotations_GC.json` for annotations on the same origin).
+The project is static and is deployed with **Coolify** (public Git repository, Dockerfile build pack, port 8080) at `https://tnah-iiif.toldot.fr`. The `Dockerfile` serves the files with unprivileged nginx (uid 101) and rewrites `http://` links to `https://` in the JSON files to avoid mixed content. Mirador is pinned to 3.4.3 in `index.html`.
+
+To test the image locally:
+
+```bash
+docker build -t tnah-iiif . && docker run --rm -p 8080:8080 tnah-iiif
+```
+
+If you host the site elsewhere, make sure the `@id` values in `manifest_GC.json` and `annotations_GC.json` match your own URL.
 
 ## Licence
 
