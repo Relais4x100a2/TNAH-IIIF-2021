@@ -2,7 +2,7 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "@id": "https://relais4x100a2.github.io/IIIF/annotations_GC.json",
+      "@id": "https://tnah-iiif.toldot.fr/annotations_GC.json",
       "@type": "oa:Annotation",
       "dcterms:created": "2021-01-31T23:01:09",
       "dcterms:modified": "2021-02-09T20:45:32",
